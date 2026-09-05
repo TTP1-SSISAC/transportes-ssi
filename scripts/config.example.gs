@@ -6,7 +6,7 @@
      */
 
      const CONFIG = {
-       SPREADSHEET_ID:       'REEMPLAZAR_CON_ID_DEL_SPREADSHEET',
+       SPREADSHEET_ID:       '1wD1u_PH3wpYvWAcRXr2kbAGwoUdUR4LJPej0h3EhWqA',
          EMAIL_ALERTAS:        'correo@tuempresa.com',
            EMAIL_CC:             '',
              DIAS_ALERTA_ROJA:     10,
