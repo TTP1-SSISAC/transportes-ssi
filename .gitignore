@@ -1,0 +1,13 @@
+# Archivo de configuracion privado — NUNCA subir al repo
+scripts/00_Config.gs
+
+# Node
+node_modules/
+npm-debug.log
+
+# clasp
+.clasp.json
+
+# OS
+.DS_Store
+Thumbs.db
